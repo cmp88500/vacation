@@ -14,9 +14,15 @@ body {
 .card-header, li {
   margin-bottom: 10px;
 }
+
+.goldbg {
+    background-color: #F7F1D0;
+}
+
 .silver {
   background-color: #bababa;
 }
+
 .bronze {
   background-color: #870C0C;
   color: #FFF;
