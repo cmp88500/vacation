@@ -1,4 +1,28 @@
+h2 {
+  margin-bottom: 0;
+}
+
+body {
+  background-color: #F3F3EE;
+}
+
 .jumbotron {
   background: url("mp-img.jpeg");
   background-size: cover;
+  height: 600px;
+}
+.card-header, li {
+  margin-bottom: 10px;
+}
+.silver {
+  background-color: #bababa;
+}
+.bronze {
+  background-color: #870C0C;
+  color: #FFF;
+}
+
+.card {
+  height: 400px;
+  margin: 10px;
 }
